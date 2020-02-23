@@ -4,7 +4,7 @@
 
 > This method will update Windows and all available drivers, however as a general troubleshooting step this is not a bad idea.
 
-**1.** Open the Settings app. You can do this by searching for it in the Start menu, pressing `win+i`, searching for it in the Start menu, or pressing the Settings icon above the power button.
+**1.** Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, searching for it in the Start menu, or pressing the Settings icon above the power button.
 
 ![](https://i.imgur.com/zVuTY7V.png)
 
