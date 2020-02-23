@@ -29,7 +29,7 @@
 
 ![](https://i.imgur.com/QwIkNa5.png) ![](https://i.imgur.com/G8tgpbj.png)
 
-**2.** Find and expand the "Display adaptors" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
+**2.** Find and expand the "Display adapters" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
 
 ![](https://i.imgur.com/efCYLGT.png)
 
