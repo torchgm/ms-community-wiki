@@ -64,7 +64,7 @@
 
 1. Open your web browser and navigate to the website of your device or graphics adapter's manufacturer. For example, if this is a Dell laptop then go to Dell's website, however if it's a custom-built desktop with an NVIDIA graphics card, then head to NVIDIA's website etc.
 
-2. Locate the option for downloading drivers for your product. If it is a pre-built computer such as a laptop you may need to model or serial number to find the download page.
+2. Locate the option for downloading drivers for your product. If it is a pre-built computer such as a laptop you may need the model or serial number to find the download page.
 
 3. Find the download for the graphics drivers, agree to any terms and conditions, then download the file.
 
